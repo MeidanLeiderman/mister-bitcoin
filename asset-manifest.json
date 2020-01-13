@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mister-bitcoin/static/css/main.974e1775.chunk.css",
+    "main.js": "/mister-bitcoin/static/js/main.369bb04d.chunk.js",
+    "main.js.map": "/mister-bitcoin/static/js/main.369bb04d.chunk.js.map",
+    "runtime-main.js": "/mister-bitcoin/static/js/runtime-main.9befb8b2.js",
+    "runtime-main.js.map": "/mister-bitcoin/static/js/runtime-main.9befb8b2.js.map",
+    "static/js/2.aee16db3.chunk.js": "/mister-bitcoin/static/js/2.aee16db3.chunk.js",
+    "static/js/2.aee16db3.chunk.js.map": "/mister-bitcoin/static/js/2.aee16db3.chunk.js.map",
+    "index.html": "/mister-bitcoin/index.html",
+    "precache-manifest.0b28435b3831e40ba5c54d02468da12e.js": "/mister-bitcoin/precache-manifest.0b28435b3831e40ba5c54d02468da12e.js",
+    "service-worker.js": "/mister-bitcoin/service-worker.js",
+    "static/css/main.974e1775.chunk.css.map": "/mister-bitcoin/static/css/main.974e1775.chunk.css.map",
+    "static/js/2.aee16db3.chunk.js.LICENSE": "/mister-bitcoin/static/js/2.aee16db3.chunk.js.LICENSE",
+    "static/media/App.scss": "/mister-bitcoin/static/media/Montserrat-Regular.ee653992.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9befb8b2.js",
+    "static/js/2.aee16db3.chunk.js",
+    "static/css/main.974e1775.chunk.css",
+    "static/js/main.369bb04d.chunk.js"
+  ]
+}
